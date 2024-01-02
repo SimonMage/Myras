@@ -1,0 +1,50 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.WorldLoadProgressScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = fancymenu_data/bg2.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  showname = true
+  orientation = mid-centered
+  crouching = false
+  x = -150
+  slim = false
+  actionid = 22522147-c75d-4c86-b234-a4ebcae53c9b1663949652127
+  action = addentity
+  y = 35
+  scale = 30
+  playername = Caricamento Mondo
+  skinurl = https://www.minecraftskins.com/uploads/skins/2022/06/10/pokeball-20417783.png
+  parrot = false
+}
+
+customization {
+  showname = true
+  orientation = mid-centered
+  crouching = false
+  x = 155
+  slim = false
+  actionid = b0de0b19-feda-4cf3-8559-d95e0fe4c9301663949948636
+  action = addentity
+  y = 35
+  scale = 30
+  playername = Caricamento Mondo
+  skinurl = https://www.minecraftskins.com/uploads/skins/2022/06/10/pokeball-20417783.png
+  parrot = false
+}
+

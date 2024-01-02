@@ -1,0 +1,74 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.ConnectingScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = fancymenu_data/bg2.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-centered
+  x = -40
+  action = movebutton
+  y = -26
+}
+
+customization {
+  identifier = %id=400382%
+  width = 78
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400382%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data\button2.png
+  backgroundnormal = fancymenu_data\button.png
+}
+
+customization {
+  showname = true
+  orientation = mid-centered
+  crouching = false
+  x = 194
+  slim = false
+  actionid = ecc83bef-beb6-4118-8bba-c6a2429bae561663950487169
+  action = addentity
+  y = 2
+  scale = 30
+  playername = New Wave
+  skinurl = https://www.minecraftskins.com/uploads/skins/2022/06/10/pokeball-20417783.png
+  parrot = false
+}
+
+customization {
+  showname = true
+  orientation = mid-centered
+  crouching = false
+  x = -172
+  slim = false
+  actionid = bc955df5-358b-4889-91a8-a08be38c01121663950488753
+  action = addentity
+  y = 2
+  scale = 30
+  playername = New Wave
+  skinurl = https://www.minecraftskins.com/uploads/skins/2022/06/10/pokeball-20417783.png
+  parrot = false
+}
+

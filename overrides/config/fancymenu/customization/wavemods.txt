@@ -1,0 +1,84 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraftforge.fml.client.gui.screen.ModListScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=457974%
+  orientation = bottom-centered
+  x = 24
+  action = movebutton
+  y = -26
+}
+
+customization {
+  identifier = %id=457974%
+  width = 93
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=457974%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data\button2.png
+  backgroundnormal = fancymenu_data\button.png
+}
+
+customization {
+  identifier = %id=66%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data\button2.png
+  backgroundnormal = fancymenu_data\button.png
+}
+
+customization {
+  identifier = %id=6948%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data\button2.png
+  backgroundnormal = fancymenu_data\button.png
+}
+
+customization {
+  identifier = %id=436%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data\button2.png
+  backgroundnormal = fancymenu_data\button.png
+}
+
+customization {
+  identifier = %id=806%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data\button2.png
+  backgroundnormal = fancymenu_data\button.png
+}
+
+customization {
+  identifier = %id=6974%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data\button2.png
+  backgroundnormal = fancymenu_data\button.png
+}
+

@@ -1,0 +1,38 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.ConfirmScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = fancymenu_data/bg1.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=505262%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data\button2.png
+  backgroundnormal = fancymenu_data\button.png
+}
+
+customization {
+  identifier = %id=345262%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data\button2.png
+  backgroundnormal = fancymenu_data\button.png
+}
+

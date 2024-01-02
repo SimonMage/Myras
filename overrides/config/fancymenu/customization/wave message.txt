@@ -1,0 +1,48 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.DirtMessageScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = fancymenu_data/bg2.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  showname = true
+  orientation = mid-centered
+  crouching = false
+  x = -150
+  slim = false
+  actionid = d059d7ce-7373-4be8-9ea7-54ce07099fce1663950057996
+  action = addentity
+  y = 35
+  scale = 30
+  playername = %playername%
+  parrot = false
+}
+
+customization {
+  showname = true
+  orientation = mid-centered
+  crouching = false
+  x = 155
+  slim = false
+  actionid = 2ed6e151-8348-48b5-b0c3-bfef184bad7a1663950099164
+  action = addentity
+  y = 35
+  scale = 30
+  playername = %playername%
+  parrot = false
+}
+
