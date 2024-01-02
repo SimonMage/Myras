@@ -1,0 +1,22 @@
+{
+  "id": "Lago-Verità_1717-52-4813",
+  "name": "Lago Verità",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--256-waypoint-icon.png",
+  "x": 1717,
+  "y": 52,
+  "z": 4813,
+  "r": 255,
+  "g": 255,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:sinnoh"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

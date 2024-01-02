@@ -1,0 +1,22 @@
+{
+  "id": "Lega-Pokémon_4990-78-4065",
+  "name": "Lega Pokémon",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16711936-waypoint-icon.png",
+  "x": 4990,
+  "y": 78,
+  "z": 4065,
+  "r": 0,
+  "g": 255,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:sinnoh"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "Via-Vittoria_4899-33-4256",
+  "name": "Via Vittoria",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--256-waypoint-icon.png",
+  "x": 4899,
+  "y": 33,
+  "z": 4256,
+  "r": 255,
+  "g": 255,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:sinnoh"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

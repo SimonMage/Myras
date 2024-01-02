@@ -1,0 +1,22 @@
+{
+  "id": "Fonte-Saluto_4562-41-4387",
+  "name": "Fonte Saluto",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--256-waypoint-icon.png",
+  "x": 4562,
+  "y": 41,
+  "z": 4387,
+  "r": 255,
+  "g": 255,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:sinnoh"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

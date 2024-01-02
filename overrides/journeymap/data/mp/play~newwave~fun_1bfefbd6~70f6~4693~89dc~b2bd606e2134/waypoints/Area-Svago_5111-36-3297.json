@@ -1,0 +1,22 @@
+{
+  "id": "Area-Svago_5111-36-3297",
+  "name": "Area Svago",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16711936-waypoint-icon.png",
+  "x": 5111,
+  "y": 36,
+  "z": 3297,
+  "r": 0,
+  "g": 255,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:sinnoh"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

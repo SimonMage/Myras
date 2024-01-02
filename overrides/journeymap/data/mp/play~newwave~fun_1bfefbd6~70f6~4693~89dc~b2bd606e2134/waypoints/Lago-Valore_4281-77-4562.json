@@ -1,0 +1,22 @@
+{
+  "id": "Lago-Valore_4281-77-4562",
+  "name": "Lago Valore",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--256-waypoint-icon.png",
+  "x": 4281,
+  "y": 77,
+  "z": 4562,
+  "r": 255,
+  "g": 255,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:sinnoh"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

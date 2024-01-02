@@ -1,0 +1,22 @@
+{
+  "id": "Parco-Amici_2666-50-5063",
+  "name": "Parco Amici",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--256-waypoint-icon.png",
+  "x": 2666,
+  "y": 50,
+  "z": 5063,
+  "r": 255,
+  "g": 255,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:sinnoh"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

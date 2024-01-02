@@ -1,0 +1,22 @@
+{
+  "id": "Arenipoli_4831-40-4696",
+  "name": "Arenipoli",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16711936-waypoint-icon.png",
+  "x": 4831,
+  "y": 40,
+  "z": 4696,
+  "r": 0,
+  "g": 255,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:sinnoh"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

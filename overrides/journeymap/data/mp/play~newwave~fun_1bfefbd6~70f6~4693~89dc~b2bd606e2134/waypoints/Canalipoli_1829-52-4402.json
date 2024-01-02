@@ -1,0 +1,22 @@
+{
+  "id": "Canalipoli_1829-52-4402",
+  "name": "Canalipoli",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16711936-waypoint-icon.png",
+  "x": 1829,
+  "y": 52,
+  "z": 4402,
+  "r": 0,
+  "g": 255,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:sinnoh"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

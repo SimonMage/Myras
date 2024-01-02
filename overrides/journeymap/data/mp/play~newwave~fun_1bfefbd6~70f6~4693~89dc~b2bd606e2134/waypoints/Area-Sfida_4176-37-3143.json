@@ -1,0 +1,22 @@
+{
+  "id": "Area-Sfida_4176-37-3143",
+  "name": "Area Sfida",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16711936-waypoint-icon.png",
+  "x": 4176,
+  "y": 37,
+  "z": 3143,
+  "r": 0,
+  "g": 255,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:sinnoh"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

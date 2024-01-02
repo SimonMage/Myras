@@ -1,0 +1,22 @@
+{
+  "id": "Evopoli_2734-54-4053",
+  "name": "Evopoli",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16646398-waypoint-icon.png",
+  "x": 2734,
+  "y": 54,
+  "z": 4053,
+  "r": 1,
+  "g": 255,
+  "b": 2,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:sinnoh"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
